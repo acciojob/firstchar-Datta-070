@@ -8,4 +8,4 @@ function firstChar(text) {
 // Do not change the code below
 
 const text = prompt("Enter text:");
-alert(firstChar(textxt));
+alert(firstChar(text));
